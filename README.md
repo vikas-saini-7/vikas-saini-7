@@ -8,7 +8,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my github page : https://www.stunly-agency.com
+🔭 I’m currently working on my creative agency : https://www.stunly-agency.com
   
 🌱 I’m currently learning : Node.js
 

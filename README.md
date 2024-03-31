@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **System Design & Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://vikas-saini.vercel.app](https://vikas-saini.vercel.app)
+- 👨‍💻 All of my projects are available at [https://vikas-saini.vercel.app/work](https://vikas-saini.vercel.app/work)
 
 - 📝 I regularly write articles on [https://medium.com/@vikas-saini](https://medium.com/@vikas-saini)
 

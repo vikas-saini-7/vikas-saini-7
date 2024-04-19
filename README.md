@@ -1,10 +1,10 @@
 Hi! My name is Vikas Saini 😄
 ========================================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-saini-7&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-saini-7" /> </p>
-
 🌍  I am a Front-End Developer based in Pune, India.
 <br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikas-saini-7&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-saini-7" /> </p>
 
 ### Skills
 

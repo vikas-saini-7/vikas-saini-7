@@ -7,6 +7,8 @@ Skilled in full stack development, leveraging performance optimization and featu
 🌍  Based in Pune, India  
 🔗  Portfolio: [vikas-saini.tech](https://vikas-saini.tech)
 
+Contact me via [LinkedIn](https://www.linkedin.com/in/vikas-saini-602b96227)
+
 <!--
 ### Skills
 

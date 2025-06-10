@@ -7,6 +7,7 @@ Skilled in full stack development, leveraging performance optimization and featu
 🌍  Based in Pune, India  
 🔗  Portfolio: [vikas-saini.tech](https://vikas-saini.tech)
 
+<!--
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
@@ -83,3 +84,4 @@ Skilled in full stack development, leveraging performance optimization and featu
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+-->

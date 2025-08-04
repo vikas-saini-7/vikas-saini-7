@@ -1,8 +1,10 @@
 Skilled in full stack development, leveraging performance optimization and feature development abilities in a fast-paced, innovative environment to build impactful solutions.
 
+<!--
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vikas-saini-7&label=Profile%20views&color=0e75b6&style=flat" alt="vikas-saini-7" />
 </p>
+-->
 
 🌍  Based in Pune, India  
 🔗  Portfolio: [vikas-saini.tech](https://vikas-saini.tech)
